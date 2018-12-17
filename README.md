@@ -25,7 +25,7 @@
   
     - 大话数据结构 
     - 数据结构（C语言）严蔚敏
-    - 数据结构（C语言）邓俊辉
+    - 数据结构（C++语言）邓俊辉
     - 数据结构与算法分析（C语言）Mark Allen Weiss
     - 算法图解 Aditya Bhargava
     - 算法设计技巧与分析 沙特 M.H.Alsuwaiyel
