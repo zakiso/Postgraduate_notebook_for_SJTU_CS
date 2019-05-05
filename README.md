@@ -1,4 +1,4 @@
-# Postgraduate_notebook_for_SJTU_Software_Program
+# Postgraduate_notebook_for_SJTU_CS
 ## 声明：
 不是准研究生，只是备考上交大的软件工程或者是人工智能方向一枚备考者。
 
